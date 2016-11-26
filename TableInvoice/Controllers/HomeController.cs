@@ -15,13 +15,13 @@ namespace TableInvoice.Controllers
             new Product {Name = "Pralka Yellow", Unit ="szt.", Price = 1400M },
             new Product {Name = "Pralka Brown", Unit ="szt.", Price = 1500M },
             new Product {Name = "Pralka Green", Unit ="szt.", Price = 1600M },
-            new Product {Name = "Pralka Red", Unit ="szt.", Price = 1700M }
+            new Product {Name = "Pralka Red", Unit ="szt.", Price = 1600M }
             };
 
         // GET: Home (default View)
         public ActionResult Index()
         {
-            LinqValueCalculator calc = new LinqValueCalculator();
+            IValueCalculator calc = new LinqValueCalculator();
 
             SumOfTable tab = new SumOfTable(calc) { Products = products };
 

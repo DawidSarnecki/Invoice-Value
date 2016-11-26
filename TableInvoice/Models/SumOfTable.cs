@@ -7,10 +7,12 @@ namespace TableInvoice.Models
 {
     public class SumOfTable
     {
-        private LinqValueCalculator calc;
+
+        // using iterface:
+        private IValueCalculator calc;
 
         //construct
-        public SumOfTable(LinqValueCalculator calcParam)
+        public SumOfTable(IValueCalculator calcParam)
         {
             calc = calcParam;
         }
@@ -21,7 +23,7 @@ namespace TableInvoice.Models
         // return decimal total value of products
         public decimal CalculateProductTotal()
         {
-            return calc.ValueProdcuts(Products);
+            return calc.ValueProducts(Products);
         }
 
     }
