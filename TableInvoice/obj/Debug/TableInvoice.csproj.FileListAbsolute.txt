@@ -31,3 +31,13 @@ D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\System.Web.Mvc.xml
 D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\obj\Debug\TableInvoice.csprojResolveAssemblyReference.cache
 D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\obj\Debug\TableInvoice.dll
 D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\obj\Debug\TableInvoice.pdb
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\Ninject.dll
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\Ninject.Web.Common.dll
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\Ninject.Web.Mvc.dll
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\WebActivator.dll
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\Ninject.pdb
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\Ninject.xml
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\Ninject.Web.Common.pdb
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\Ninject.Web.Common.xml
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\Ninject.Web.Mvc.pdb
+D:\MVC NET\TableInvoice\TableInvoice\TableInvoice\bin\Ninject.Web.Mvc.xml
