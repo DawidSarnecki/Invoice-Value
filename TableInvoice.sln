@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableInvoice", "TableInvoice\TableInvoice.csproj", "{D59F9527-96CC-4C07-A6A0-43D0F5AF248A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableInvoice.UnitTests", "TableInvoice.UnitTests\TableInvoice.UnitTests.csproj", "{6D9E9D16-8394-4686-B5F4-8FC8E866EB5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D59F9527-96CC-4C07-A6A0-43D0F5AF248A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D59F9527-96CC-4C07-A6A0-43D0F5AF248A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D59F9527-96CC-4C07-A6A0-43D0F5AF248A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9E9D16-8394-4686-B5F4-8FC8E866EB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9E9D16-8394-4686-B5F4-8FC8E866EB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9E9D16-8394-4686-B5F4-8FC8E866EB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9E9D16-8394-4686-B5F4-8FC8E866EB5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
